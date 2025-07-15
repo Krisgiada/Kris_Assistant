@@ -1,4 +1,6 @@
-# Kris Assistant Alpha
+# Kris Assistant
+
+A dyslexia Ai Assistant: write, search the web, open programs
 
 ## Come si usa
 
@@ -9,7 +11,7 @@
 
 ## Requisiti
 
-- **Nessun requisito**: non serve Python né installare nulla!
+- **Nessun requisito**:  serve Python lo fa in automatico.
 
 ## Note
 
