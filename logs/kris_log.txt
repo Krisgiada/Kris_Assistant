@@ -1,0 +1,10 @@
+[2025-07-15 10:27:52] Command: kit cerca python tutorial
+[2025-07-15 10:27:52] Result: Ho trovato 3 risultati per 'python tutorial':
+1. Primo risultato per 'python tutorial': Informazioni dettagliate disponibili
+2. Secondo risultato per 'python tutorial': Documentazione e guide utili
+3. Terzo risultato per 'python tutorial': Forum e discussioni della comunità
+
+--------------------------------------------------
+[2025-07-15 10:29:16] Command: kit scrivi hello world
+[2025-07-15 10:29:16] Result: Testo digitato: hello world
+--------------------------------------------------
