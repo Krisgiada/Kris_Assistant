@@ -69,6 +69,7 @@ Per problemi: [email di supporto o link]
 # ✓ Archivio ZIP con:
 #     - assistant.exe
 #     - config.json
+#     - kris.ico
 #     - directory "note/"
 #     - directory "assets/" per suoni, icone, voce
 #     - requirements.txt per debug e sviluppo
@@ -77,7 +78,7 @@ Per problemi: [email di supporto o link]
 # ---
 # 6. FUNZIONALITÀ AGGIUNTIVE (previste o future)
 # ---
-# - Parser intelligente: frasi tipo "Kris apri blocco note"
+# - Parser intelligente: frasi tipo "Kit apri blocco note"
 # - Log automatico comandi in "logs/kris_log.txt"
 # - Lettura e risposta vocale a email/testi in input
 # - Protezione thread con threading.Lock() su current_text
@@ -93,4 +94,7 @@ Per problemi: [email di supporto o link]
 # ✓ Configurazione salvabile e persistente
 # 🔧 Ottimizzazioni di stabilità in corso
 # 📦 Compilazione ZIP finale in corso (con assistant.exe)
-# 📍 Consegna prevista: a ore
+# 📍 Consegna prevista: ____ in cerca di autori____
+
+#Alternativa per altre disabilità
+# https://github.com/Krisgiada/Kris_Assistant/pull/2
